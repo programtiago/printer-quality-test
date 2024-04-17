@@ -1,0 +1,7 @@
+D:\printer-quality-test\quality-testlabel.exe
+D:\printer-quality-test\quality-testlabel.dll
+D:\printer-quality-test\quality-testlabel.deps.json
+D:\printer-quality-test\quality-testlabel.runtimeconfig.json
+D:\printer-quality-test\quality-testlabel.pdb
+D:\printer-quality-test\GenCode128.dll
+D:\printer-quality-test\QRCoder.dll

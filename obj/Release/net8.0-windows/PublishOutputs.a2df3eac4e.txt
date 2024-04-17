@@ -1,0 +1,7 @@
+D:\quality-testlabel.exe
+D:\quality-testlabel.dll
+D:\quality-testlabel.deps.json
+D:\quality-testlabel.runtimeconfig.json
+D:\quality-testlabel.pdb
+D:\GenCode128.dll
+D:\QRCoder.dll
